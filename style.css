@@ -1,0 +1,91 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: "Yomogi", cursive;
+}
+body{
+
+}
+header{
+  background-color: rgba(10, 98, 31, 0.505);
+  padding: 30px;
+}
+header h1{
+  color: white;
+  font-family: "Yomogi", cursive;
+  letter-spacing: 4px;
+  font-size: 36px;
+}
+main{
+  text-align: center;
+  font-family: "Yomogi", cursive;
+}
+main #hero{
+
+}
+main #hero img{
+  width: 100%;
+}
+main #about{
+  padding: 30px;
+}
+main #about h2{
+  color: rgb(194, 138, 138);
+  font-family: "Yomogi", cursive;
+  letter-spacing: 4px;
+  font-size: 36px;
+  padding-bottom: 15px;
+}
+main #about p{
+  font-size: 18px;
+  font-family: "Yomogi", cursive;
+}
+main #menu{
+  padding: 30px;
+  background-color: rgb(245, 224, 224);
+}
+main #menu h2{
+  color: white;
+  letter-spacing: 4px;
+  font-size: 36px;
+}
+main #menu p{
+  color: rgb(95, 49, 49);
+  font-size: 18px;
+  padding: 10px;
+}
+aside{
+  padding: 30px;
+  background-color: white;
+  text-align: center;
+}
+aside h2{
+  color: rgb(204, 111, 111);
+  letter-spacing: 4px;
+  font-size: 30px;
+}
+aside p{
+  font-size: 28px;
+  color: brown;
+}
+aside figure{
+  border-style: none;
+}
+aside figure img{
+  width: 150px;
+  border-style: none;
+}
+aside a{
+  padding: 10px 50px;
+  background-color: rgb(122, 211, 226);
+  color: bisque;
+  display: inline-block;
+  margin: 30px;
+  text-decoration: none;
+  border-radius: 30px;
+footer{
+  background-color: blanchedalmond;
+  color: aquamarine;
+  text-align: center;
+  padding: 10px;
+}
